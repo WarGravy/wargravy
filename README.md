@@ -1,6 +1,6 @@
 ### Hi there 🐱‍👤
 
-I'm a friendly software engineer and architect currently jumping into some open-source projects. I see gaps that need to be filled and work on getting solutions out there to be used.
+I'm a software engineer and architect currently jumping into some open-source projects. I see gaps that need to be filled and work on getting solutions out there to be used.
 
 ### Projects
 #### [Powershell as a Service](https://github.com/WarGravy/PowerShell-As-A-Service)
