@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a friendly software engineer and architect currently jumping into some open-source projects. I see gaps that need to be filled and work on getting solutions out there to be used.
+
+### Projects
+#### Windows Service Powershell Runner
+One of the things I really like about Linux is how easy it is to write bash services. In Windows, we have PowerShell which is quite awesome and powerful, but no easy way to run those powershell scripts as services. I wrote this dotnet core windows service to do just that.
+
+The repo is located at [wargravy/Windows-Service-Powershell-Runner](https://github.com/WarGravy/Windows-Service-Powershell-Runner) and has a helpful readme to get started using it.
 <!--
 **WarGravy/wargravy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
