@@ -3,10 +3,10 @@
 I'm a friendly software engineer and architect currently jumping into some open-source projects. I see gaps that need to be filled and work on getting solutions out there to be used.
 
 ### Projects
-#### Windows Service Powershell Runner
+#### Powershell as a Service
 One of the things I really like about Linux is how easy it is to write bash services. In Windows, we have PowerShell which is quite awesome and powerful, but no easy way to run those powershell scripts as services. I wrote this dotnet core windows service to do just that.
 
-The repo is located at [wargravy/Windows-Service-Powershell-Runner](https://github.com/WarGravy/Windows-Service-Powershell-Runner) and has a helpful readme to get started using it.
+The repo is located at [wargravy/PowerShell-As-A-Service](https://github.com/WarGravy/PowerShell-As-A-Service) and has a helpful readme to get started using it.
 
 ### Upcoming Projects
 #### Soap support for dotnet core APIs
